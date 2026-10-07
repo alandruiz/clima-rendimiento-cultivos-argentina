@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporales
+*.tmp
+*.log
+~$*
+
+# Datos diarios del SMN y tablas derivadas (más de 280 MB): se descargan y
+# se regeneran, ver data/raw/LEEME.md
+data/raw/datos_meteorologicos_1991_2020.xlsx
+data/raw/datos_meteorologicos_desde_2021.lst
+data/interim/clima_consolidado.csv
+data/processed/clima_procesado.csv

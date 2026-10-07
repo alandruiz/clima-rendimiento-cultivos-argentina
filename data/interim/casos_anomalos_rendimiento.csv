@@ -1,0 +1,4 @@
+cultivo,anio,campania,provincia,provincia_id,departamento,departamento_id,superficie_sembrada_ha,superficie_cosechada_ha,produccion_tm,rendimiento_kgxha
+centeno,1936,1936/1937,Tucumán,90,Monteros,90070,3.0,2.0,,200.0
+centeno,1948,1948/1949,Buenos Aires,6,Moreno,6560,10.0,,,800.0
+centeno,1949,1949/1950,Buenos Aires,6,Pilar,6638,20.0,,,1000.0
